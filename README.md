@@ -12,5 +12,5 @@ Software: GROMACS-2022.3, PLUMED-2.8.1
 #### To read the paper, please visit:
 Preprint: [https://arxiv.org/abs/2403.00925](https://arxiv.org/abs/2403.00925)
 
-Publication: Under review []()
+Publication: [https://doi.org/10.1039/D4SC04042B](https://doi.org/10.1039/D4SC04042B)
 
